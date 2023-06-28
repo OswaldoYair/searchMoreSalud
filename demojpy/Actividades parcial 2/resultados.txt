@@ -1,0 +1,15 @@
+Resultados de clasificaci�n:
+Importancia de los atributos:        Atributo   Importancia
+16  OverallQual  5.825279e-01
+45    GrLivArea  1.079816e-01
+43     2ndFlrSF  4.129782e-02
+37  TotalBsmtSF  3.739942e-02
+33   BsmtFinSF1  2.817471e-02
+..          ...           ...
+71       PoolQC  4.259511e-05
+74      MiscVal  3.312974e-05
+73  MiscFeature  3.157611e-05
+4        Street  1.201590e-06
+8     Utilities  2.182579e-07
+
+[79 rows x 2 columns]
